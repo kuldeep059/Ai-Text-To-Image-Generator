@@ -4,7 +4,7 @@
 
 **Try the app live here:** 
 
-[![Hugging Face Space](https://img.shields.io/badge/%F0%9F%A4%97_Hugging_Face_Space-blue?style=for-the-badge&logo=huggingface&logoColor=white)]([YOUR_HUGGING_FACE_SPACE_URL](https://huggingface.co/spaces/Kuldeep05/My-Stable-Diffusion-App))
+https://huggingface.co/spaces/Kuldeep05/My-Stable-Diffusion-App
 
 ***
 
